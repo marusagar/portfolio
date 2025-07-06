@@ -25,7 +25,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/marusagar]
 cd your-repo-name
 ````
 
@@ -45,4 +45,4 @@ npm start
 
 ```bash
 npm run build
-``
+```
